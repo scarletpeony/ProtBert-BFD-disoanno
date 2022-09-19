@@ -37,16 +37,17 @@ This model works on amino acid sequences that are spaced between characters.
 
 Example Inputs :
 
-D E A Q F K E C Y D T C H K E C S D K G N G F T F C E M K C D T D C S V K D V K E K L E N Y K P K N 
+M S A I Q N L H S F D P F A D A S K G D D L L P A G T E D Y I H I R I Q Q R N G R K T L T T V Q G I A D D Y D K K K L V K A F K K K F A C N G T V I E H P E Y G E V I Q L Q G D Q R K N I C Q F L V E I G L A K D D Q L K V H G F 
 
-M A S E E L Q K D L E E V K V L L E K A T R K R V R D A L T A E K S K I E T E I K N K M Q Q K S Q K K A E L L D N E K P A A V V A P I T T G Y T D G I S Q I S L
+M A S R Q N N K Q E L D E R A R Q G E T V V P G G T G G K S L E A Q Q H L A E G R S K G G Q T R K E Q L G T E G Y Q E M G R K G G L S T V E K S G E E R A Q E E G I G I D E S K F R T G N N K N Q N Q N E D Q D K
 
-M D V F M K G L S K A K E G V V A A A E K T K Q G V A E A A G K T K E G V L Y V G S K T K E G V V H G V A T V A E K T K E Q V T N V G G A V V T G V T A V A Q K T V E G A G S I A A A T G F V K K D Q L G K N E E G A P Q E G I L E D M P V D P D N E A Y E M P S E E G Y Q D Y E P E A
+M P P I A T R R G Q Y E P K V Q Q A K L S P D T I P L N P A D K T K D P L A R A D S L H H H V E S D S Q E D D K A A E E P P L S R K R W Q N R T F R R K G R R Q A P Y K H K 
 
-M E L V L K D A Q S A L T V S E T T F G R D F N E A L V H Q V V V A Y A A G A R Q G T R A Q K T R A E V T G S G K K P W R Q K G T G R A R S G S I K S P I W R S G G V T F A 
-A R P Q D H S Q K V N K K M Y R G A L K S I L S E L V R Q D R L I V V E K F S V E A P K T K L L A Q K L K D M A L E D V L I I T G E L D E N L F L A A R N L H K V D V R D A T G I D P V S L I A F D K V V M T A D A V K Q V E E M L A 
+S G S D G G V C P K I L K K C R R D S D C P G A C I C R G N G Y C G 
 
-M S D K P D M A E I E K F D K S K L K K T E T Q E K N P L P S K E T I E Q E K Q A G E S 
+M G G K W S K S S V V G W P T V R E R M R R A E P A A D G V G A A S R D L E K H G A I T S S N T A A T N A A C A W L E A Q E E E E V G F P V T P Q V P L R P M T Y K A A V D L S H F L K E K G G L E G L I H S Q R R Q D I L D L W I Y H T Q G Y F P D W Q N Y T P G P G V R Y P L T F G W C Y K L V P V E P D K V E E A N K G E N T S L L H P V S L H G M D D P E R E V L E W R F D S R L A F H H V A R E L H P E Y F K N C 
+
+M R Y T D S R K L T P E T D A N H K T A S P Q P I R R I S S Q T L L G P D G K L I I D H D G Q E Y L L R K T Q A G K L L L T K 
 
 ## Training and evaluation data
 
